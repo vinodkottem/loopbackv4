@@ -1,0 +1,10 @@
+{
+  "name": "MonogoDS",
+  "connector": "mongodb",
+  "url": "mongodb://localhost:27017/myhome",
+  "host": "localhost",
+  "port": 27017,
+  "user": "",
+  "password": "",
+  "database": "myhome"
+}
